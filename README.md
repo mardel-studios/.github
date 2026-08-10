@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="https://i.ibb.co/kVH6QPSQ/mardelstudios.webp" alt="mardel.studios" width="180">
 
@@ -68,7 +68,7 @@ integrations.
 We use modern technologies to build fast, scalable and maintainable
 digital products.
 
-<div align="center">
+<div align="left">
 
 | Technology | Purpose |
 |------------|---------|
