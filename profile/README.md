@@ -1,17 +1,7 @@
-<div align="left">
-  
 ### Digital solutions that drive growth.
 
 We design and develop modern digital solutions that help businesses
 automate processes, improve their online presence and grow.
-
-<br>
-
-[![Website](https://img.shields.io/badge/Website-mardel.studios-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mardel.studios)
-[![Instagram](https://img.shields.io/badge/Instagram-@mardel.studios-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mardel.studios)
-[![GitHub](https://img.shields.io/badge/GitHub-mardel--studios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mardel-studios)
-
-</div>
 
 ---
 
@@ -64,20 +54,16 @@ integrations.
 We use modern technologies to build fast, scalable and maintainable
 digital products.
 
-<div align="left">
-
-| Technology | Purpose |
-|------------|---------|
-| Astro | Modern web development |
-| TypeScript | Type-safe development |
-| JavaScript | Application logic |
-| Tailwind CSS | Modern UI development |
-| Node.js | Backend & server-side applications |
-| MySQL | Relational databases |
-| Git | Version control |
-| GitHub | Collaboration & deployment |
-
-</div>
+| Technology   | Purpose                            |
+| ------------ | ---------------------------------- |
+| Astro        | Modern web development             |
+| TypeScript   | Type-safe development              |
+| JavaScript   | Application logic                  |
+| Tailwind CSS | Modern UI development              |
+| Node.js      | Backend & server-side applications |
+| MySQL        | Relational databases               |
+| Git          | Version control                    |
+| GitHub       | Collaboration & deployment         |
 
 ---
 
@@ -130,3 +116,21 @@ feedback and performance.
                 Integrations
                        │
                    E-Commerce
+```
+
+---
+
+## 👤 Leadership
+
+### CEO & Owner
+
+**1dertaker**
+
+Founder and owner of **mardel.studios**, focused on designing and
+developing modern digital solutions for businesses.
+
+Combining software development, modern web technologies and business
+strategy to create digital products that are practical, scalable and
+focused on real-world results.
+
+**GitHub:** https://github.com/1dertaker
