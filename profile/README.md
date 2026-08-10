@@ -1,9 +1,5 @@
 <div align="left">
-
-<img src="https://i.ibb.co/kVH6QPSQ/mardelstudios.webp" alt="mardel.studios" width="180">
-
 # mardel.studios
-
 ### Digital solutions that drive growth.
 
 We design and develop modern digital solutions that help businesses
