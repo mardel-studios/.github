@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="mardel-studios.webp" alt="mardel.studios" width="180">
+<img src="https://ibb.co/20nYgpkg" alt="mardel.studios" width="180">
 
 # mardel.studios
 
